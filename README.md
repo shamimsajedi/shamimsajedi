@@ -86,7 +86,7 @@ Corporate website for insurance & marketing consulting.
 
 - Email: shamimsajedidev@gmail.com  
 - GitHub: https://github.com/shamimsajedi 
-- LinkedIn: https://linkedin.com/in/shamimsajedi  
+- LinkedIn: https://linkedin.com/in/shamim-sajedi  
 
 ---
 
