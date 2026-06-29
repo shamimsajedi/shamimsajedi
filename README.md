@@ -69,8 +69,7 @@ Corporate website for insurance & marketing consulting.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimsajedi&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shamimsajedi&theme=default)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=shamimsajedi&theme=tokyonight)
 ---
 
 ## 📈 What I Focus On
