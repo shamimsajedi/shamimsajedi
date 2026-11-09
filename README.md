@@ -8,12 +8,11 @@ I work primarily with React and Next.js, focusing on clean architecture, maintai
 
 ## 🧠 About Me
 
-- 💻 Frontend Developer (React / Next.js / TypeScript)
+- 💻 Senior Frontend Developer (React / Next.js / TypeScript)
 - 🏗️ Focus on scalable architecture and clean code
 - ⚡ Performance optimization & SSR/SSG in Next.js
 - 🎯 Strong experience in real-world production projects
 - 🌍 Open to opportunities in Germany & the Netherlands
-- 📫 shamimsajedidev@gmail.com
 
 ---
 
@@ -65,11 +64,8 @@ Corporate website for insurance & marketing consulting.
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamimsajedi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamimsajedi&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=shamimsajedi&theme=tokyonight)
+
 ---
 
 ## 📈 What I Focus On
@@ -84,10 +80,6 @@ Corporate website for insurance & marketing consulting.
 
 ## 📫 Contact
 
-- Email: shamimsajedidev@gmail.com  
-- GitHub: https://github.com/shamimsajedi 
-- LinkedIn: https://linkedin.com/in/shamim-sajedi  
-
----
-
-
+- Email: shamimsajedidev@gmail.com
+- GitHub: https://github.com/shamimsajedi
+- LinkedIn: https://linkedin.com/in/shamim-sajedi
