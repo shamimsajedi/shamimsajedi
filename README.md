@@ -2,8 +2,6 @@
 
 Mid-level Frontend Developer with **4+ years of experience** building fast, SEO-friendly web applications with **React, Next.js and TypeScript**, from e-commerce stores to B2B platforms.
 
-🌍 Open to opportunities in **Germany 🇩🇪 & the Netherlands 🇳🇱**
-
 ---
 
 ## 🧠 About Me
